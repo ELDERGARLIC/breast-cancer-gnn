@@ -1,0 +1,5 @@
+.venv
+
+/breast_cancer_gnn/data/graph_data/*.csv
+/breast_cancer_gnn/data/input_data/*.csv
+/breast_cancer_gnn/data/processed_data/*.csv

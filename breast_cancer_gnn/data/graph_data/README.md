@@ -1,0 +1,1 @@
+Data here will be used to create a graph of patients based on their gene expression profiles. The graph will be used to train a Graph Convolutional Network (GCN) model to predict cancer subtypes. The project will involve the following steps:

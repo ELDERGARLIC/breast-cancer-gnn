@@ -1,0 +1,1 @@
+Download the file from the link provided in the `README.md` file and extract the contents to the `data/input_data` directory. The dataset contains gene expression profiles of patients with breast cancer. The dataset includes gene features and the target variable 'type' representing the cancer subtype.
